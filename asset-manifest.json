@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sitterslp/static/css/main.84298403.css",
+    "main.js": "/sitterslp/static/js/main.b6d2e3cc.js",
+    "static/js/453.b0e9365b.chunk.js": "/sitterslp/static/js/453.b0e9365b.chunk.js",
+    "static/media/bubbles.jpg": "/sitterslp/static/media/bubbles.b51057eaffd1a8f897eb.jpg",
+    "static/media/products.png": "/sitterslp/static/media/products.49964a4f2a7b98692413.png",
+    "static/media/playtime.png": "/sitterslp/static/media/playtime.9ba309afa4405dfa5ef9.png",
+    "static/media/laundry-machine.png": "/sitterslp/static/media/laundry-machine.5bc218344b300407c231.png",
+    "static/media/house.png": "/sitterslp/static/media/house.5c97c300db8c26b007a2.png",
+    "static/media/github.png": "/sitterslp/static/media/github.05f6c17b8cd04c28456f.png",
+    "index.html": "/sitterslp/index.html",
+    "main.84298403.css.map": "/sitterslp/static/css/main.84298403.css.map",
+    "main.b6d2e3cc.js.map": "/sitterslp/static/js/main.b6d2e3cc.js.map",
+    "453.b0e9365b.chunk.js.map": "/sitterslp/static/js/453.b0e9365b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84298403.css",
+    "static/js/main.b6d2e3cc.js"
+  ]
+}
