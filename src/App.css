@@ -8,6 +8,7 @@
   background-color: aliceblue;
   align-items: center;
   justify-content: center;
+  background-image: url("./images/bubbles.jpg");
 }
 .baby-sit-con {
   display: flex;
@@ -33,4 +34,15 @@
 }
 footer {
   border-top: 1px solid rgba(128, 128, 128, 0.616);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+}
+.icons {
+  display: flex;
+  gap: 12px;
+}
+.icon {
+  height: 50px;
 }
