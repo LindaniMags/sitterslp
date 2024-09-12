@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+.hero {
+  display: flex;
+  flex-direction: column;
+  height: 248px;
+  background-color: aliceblue;
+  align-items: center;
+  justify-content: center;
+}
+.baby-sit-con {
+  display: flex;
+  width: 100%;
+}
+.cubes-con {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.cubes {
+  width: 50%;
+  height: 380px;
+}
+.baby-sit-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.baby {
+  height: 100%;
+}
+footer {
+  border-top: 1px solid rgba(128, 128, 128, 0.616);
+}
